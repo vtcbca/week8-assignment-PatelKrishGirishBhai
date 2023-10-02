@@ -1,0 +1,21 @@
+Program : 1 
+==================================================================================================
+Create CSV File for Product Selling for 6 Months and add at-least 5 Records for 5 different products. 
+(Prod_Name, Jan ,Feb, Mar, Apr , May, Jun ) 
+Create Python script to perform following task.
+A. Read data in Dataframe. 
+B. Add columns and calculate total_sell, average_sell. 
+C. Plot Total sell and average sell together on line chart with proper Legends, titles and lables. 
+D. Explain final dataframe to csv named sell_analysis.csv 
+
+Program : 2 
+==================================================================================================
+Sales (sid, year, totalsales)
+
+Create above table into a SQLite database with appropriate constraints. 
+
+A. Insert at least 5-10 records into the sales table. 
+B. Export sales table data into sales.csv file.
+C. Write a python scripts that read the sales.csv file and plot a bar chart that shows totalsales of the year. 
+
+Also decorate the chart with appropriate title, lables, colours etc.
